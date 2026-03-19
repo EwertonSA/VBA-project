@@ -1,5 +1,5 @@
 Attribute VB_Name = "hyperlinks"
-Sub Hiperlinks()
+Sub Hlinks()
 
 Dim line As Integer
 Dim sheet As Worksheet

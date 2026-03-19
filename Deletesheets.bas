@@ -1,5 +1,5 @@
-Attribute VB_Name = "deletarsheets"
-Sub deleteSheets()
+Attribute VB_Name = "Deletesheets"
+Sub Delsheets()
 
 Dim sheet As Worksheet
 

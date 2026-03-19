@@ -1,6 +1,6 @@
 Attribute VB_Name = "indexTable"
 
-Sub IndexTable()
+Sub IndTable()
 
 Dim lastindex As Integer
 
@@ -32,7 +32,7 @@ Selection.Style = "Currency"
 Sheets("index").Range("E7:E" & lastindex).Select
 Selection.Style = "Currency"
 
-Call recorded
+Call MRecorded
 
 
 End Sub

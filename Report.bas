@@ -1,8 +1,7 @@
 Attribute VB_Name = "Report"
 Sub reportation()
-Call showsheet
-
-Call deleteSheets
+Call ShowSheet
+Call Delsheets
 
 Dim line As Integer
 Dim last As Integer
@@ -76,10 +75,10 @@ ActiveWindow.DisplayGridlines = False
 
 Next line
 
-Call Hiperlinks
+Call Hlinks
 
-Call IndexTable
-Call hidesheet
+Call IndTable
+Call HideSheet
 
 
 End Sub

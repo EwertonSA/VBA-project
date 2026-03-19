@@ -1,6 +1,6 @@
 Attribute VB_Name = "Recorded"
-Sub Recorded()
-Attribute Recorded.VB_ProcData.VB_Invoke_Func = " \n14"
+Sub MRecorded()
+Attribute MRecorded.VB_ProcData.VB_Invoke_Func = " \n14"
 '
 ' Macro1 Macro
 '

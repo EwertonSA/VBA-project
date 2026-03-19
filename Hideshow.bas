@@ -1,5 +1,5 @@
 Attribute VB_Name = "hideshow"
-Sub hidesheet()
+Sub HideSheet()
 
 Dim sheet As Worksheet
 
@@ -13,7 +13,7 @@ End If
 Next sheet
 
 End Sub
-Sub showsheet()
+Sub ShowSheet()
 
 Dim sheet As Worksheet
 
